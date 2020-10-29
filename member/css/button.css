@@ -1,0 +1,117 @@
+.button {
+    background-color: rgb(253, 215, 0); /* Green */
+    border: none;
+    border-radius: 8px;
+    color: #f4511e;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: transparent; 
+    color: #f4511e; 
+    border: 2px solid rgb(253, 215, 0);
+  }
+  
+  .button1:hover {
+    background-color: rgb(253, 215, 0);
+    color: #f4511e;
+  }
+
+  
+  .buttonfull {
+    background-color: transparent; 
+    color: #eeeeee; 
+    border: 2px solid rgb(253, 215, 0);
+  }
+  
+  .buttonfull:hover {
+    background-color: rgb(253, 215, 0);
+    color: #eeeeee;
+  }
+
+  .buttonx {
+    background-color: rgb(187, 255, 0); /* Green */
+    border: none;
+    border-radius: 4px;
+    color: white;
+    padding: 2px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    margin: 1px 1px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .buttonx1 {
+    background-color: transparent; 
+    color: rgb(255, 255, 255); 
+    border: 2px solid rgb(255, 0, 0);
+  }
+  
+  .buttonx1:hover {
+    background-color: rgb(255, 0, 0);
+    color: white;
+  }
+
+  .bt {
+    background-color: rgb(1, 187, 1); 
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+.bt1 {
+    background-color: transparent; 
+    color: #ffffff; 
+    border: 2px solid rgb(30, 253, 0);
+  }
+  
+  .bt1:hover {
+    background-color: rgb(0, 253, 105);
+    color: #fff000;
+  }
+
+
+  
+  .btred {
+    background-color: rgb(255, 0, 0); 
+    border: none;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+.bt1red {
+    background-color: transparent; 
+    color: #ffffff; 
+    border: 2px solid rgb(255, 0, 0);
+  }
+  
+  .bt1red:hover {
+    background-color: rgb(255, 0, 0);
+    color: #fff000;
+  }

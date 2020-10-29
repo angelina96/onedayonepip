@@ -1,2 +1,0 @@
-# onedayonepip
-odop investment
