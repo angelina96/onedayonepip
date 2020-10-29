@@ -3,7 +3,7 @@
 $progress = ((0 - 0) / (0 - 0)) * 100;
 $progress = bcdiv($progress,1,2);
 echo $progress; */
-include "serverdb/server.php";
+include "serverdb/server.php"; //ok
 ?>
 
 <ul>
